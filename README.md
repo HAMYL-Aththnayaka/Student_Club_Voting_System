@@ -8,6 +8,10 @@ Vote Counting: Tracks and tallies votes accurately.
 
 Winner Declaration: Determines the winning candidate based on the highest votes.
 
+![activity3_2](https://github.com/user-attachments/assets/0dc7c32f-4943-43f9-8ccd-d5b3f38319a6)
+![activity3_1](https://github.com/user-attachments/assets/a2c1b8ba-a9a3-48b0-94d0-7913865e778c)
+
+
 Data Visualization: Offers three visualization methods:
 
 Bar Chart
